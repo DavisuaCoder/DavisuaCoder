@@ -12,7 +12,7 @@ Fullstack web developer with strong knowledge at system management and deploymen
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DavisuaCoder&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavisuaCoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
