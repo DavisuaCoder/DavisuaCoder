@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fullstack web developer with strong knowledge at system management and deployment. <br>Dual Bachelor in Computer Engineering and Business Administration.<br>Learning new lenguages and frameworks to work with.<br>Always on point.
+Fullstack web developer with strong knowledge at system management and deployment. <br>Dual Bachelor in Computer Engineering and Business Administration.<br>Learning new lenguages and frameworks to work with.<br>
 
 
 ## 🌐 Socials:
