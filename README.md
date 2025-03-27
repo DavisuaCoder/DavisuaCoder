@@ -1,5 +1,5 @@
 # 💫 About Me:
-Solutions architect by profession, coding developer as punishment. Once a coder, always a coder. <br>Dual Bachelor in Computer Engineering and Business Administration.<br>Learning new lenguages and frameworks to work with.<br>
+Software engineer by profession, coding developer as punishment. Once a coder, always a coder. <br>Dual Bachelor in Computer Engineering and Business Administration.<br>Learning new lenguages and frameworks to work with.<br>
 
 
 ## 🌐 Socials:
